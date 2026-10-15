@@ -1,0 +1,6 @@
+Flask>=3.0,<4.0
+Pillow>=10.0,<13.0
+# Optional: enables handwriting OCR for uploaded images
+easyocr>=1.7.2
+# Optional: enables richer AI analysis with a Gemini API key
+google-genai>=1.0.0
